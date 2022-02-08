@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/NoteToDo/app/src/main/res/drawable/custom_btn_bg.xml" value="0.18541666666666667" />
+        <entry key="..\:/Android/NoteToDo/app/src/main/res/layout/activity_add_note.xml" value="0.16597510373443983" />
+        <entry key="..\:/Android/NoteToDo/app/src/main/res/layout/activity_main.xml" value="0.22864583333333333" />
+        <entry key="..\:/Android/NoteToDo/app/src/main/res/layout/activity_update_note.xml" value="0.16510416666666666" />
+        <entry key="..\:/Android/NoteToDo/app/src/main/res/layout/recycler_layout.xml" value="0.2" />
+        <entry key="..\:/Android/NoteToDo/app/src/main/res/menu/list_menu.xml" value="0.22864583333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

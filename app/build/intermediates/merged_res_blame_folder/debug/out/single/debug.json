@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_search_24.xml.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\drawable\\ic_baseline_search_24.xml"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_add_note.xml.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\layout\\activity_add_note.xml"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_keyboard_backspace_24.xml.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\drawable\\ic_baseline_keyboard_backspace_24.xml"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_update_note.xml.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\layout\\activity_update_note.xml"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_baseline_check_24.xml.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\drawable\\ic_baseline_check_24.xml"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\drawable_custom_btn_bg.xml.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\drawable\\custom_btn_bg.xml"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\menu_list_menu.xml.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\menu\\list_menu.xml"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\layout_recycler_layout.xml.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\src\\main\\res\\layout\\recycler_layout.xml"
+    },
+    {
+        "merged": "E:\\Android\\NoteToDo\\app\\build\\intermediates\\merged_res\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\Android\\NoteToDo\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    }
+]
